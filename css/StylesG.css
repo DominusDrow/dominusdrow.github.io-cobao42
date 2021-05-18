@@ -1,0 +1,144 @@
+
+body{
+
+    background-color:floralwhite;
+
+    background-image:url(../img/tx12.jpg);
+  
+  }
+
+
+  #LogoPrinc{
+
+    position:relative;
+    background-image: url(../img/logo.png);
+
+    width: auto;
+    height:200px;
+    
+    background-position: top;
+    background-repeat:no-repeat;
+
+    margin:5px;
+
+  }
+
+
+  #t1{
+
+    background-image:url(../img/red.jpg);
+
+    width:auto;
+    height:40px;
+
+    margin:5px;
+
+    color: whitesmoke;
+    font-size: 35px;
+    font-family: sans sans-serif;
+
+    text-align:center;
+}
+
+
+
+  #header {
+    margin:auto;
+    width:620px;
+    font-family:Arial, Helvetica, sans-serif;
+   }
+
+     ul, ol {
+    list-style:none;
+   }
+   
+   .nav > li {
+    float:left;
+   }
+   
+   .nav li a {
+    background-image: url(../img/tx11.jpg);
+    color:#fff;
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+   }
+   
+   .nav li a:hover {
+    background-color:#434343;
+   }
+   
+   .nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+
+    }
+   
+   .nav li:hover > ul {
+    display:block;
+   }
+   
+   .nav li ul li {
+    position:relative;
+   }
+   
+   .nav li ul li ul {
+    right:-140px;
+    top:0px;
+   }
+
+   .nav ul li a:hover{
+    background-color: aquamarine;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#LogoSec{
+
+  background-color:#CAB8F0;
+    
+  height:250px;
+
+  margin:0;
+  padding:0;    
+
+  text-align:center;
+}
+
+#LogoSec img{
+
+  height:auto;
+  width:90%;
+
+  position:relative;
+
+  top:87px;
+}
+
+
+#LogoSec h5{
+
+  color:white;
+  font-size:18px;
+
+  position:relative;
+  
+  top:90px;
+
+  font-family:Bahnschrift;
+}
+

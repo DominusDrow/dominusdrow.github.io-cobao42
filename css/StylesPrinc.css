@@ -1,0 +1,40 @@
+h1{
+	font-size:70px;
+}
+
+h2{
+	font-size:40px;
+	font-family:Britannic Bold;
+
+	margin:30px;
+
+	background:rgba(113, 84, 229,0.2);
+
+	width:17%;
+	height:50px;
+
+	text-align:center;
+}
+
+h3{
+	font-size:30px;
+	font-family:Broadway;
+
+	left:40px;
+}
+
+p{
+	font-size:20px;
+	font-family:Verdana; 
+
+	margin:40px;
+
+}
+
+.p123{
+	background:rgba(208, 191, 235,0.5);
+
+	width:90%;
+}
+
+

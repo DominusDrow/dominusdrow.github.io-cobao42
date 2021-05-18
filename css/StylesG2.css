@@ -1,0 +1,45 @@
+
+
+
+.title{
+  text-align:center;
+}
+
+h1{
+	font-size:40px;
+	font-family:Britannic Bold;
+}
+p{
+
+  font-family:Verdana;
+  font-size:20px;
+
+  margin:40px;
+}
+
+h2{
+	font-size:40px;
+	font-family:Britannic Bold;
+
+	margin:30px;
+
+	background:rgba(113, 84, 229,0.2);
+
+	width:50%;
+	height:100px;
+
+	text-align:center;
+}
+
+.p123{
+	background:rgba(208, 191, 235,0.5);
+
+	width:90%;
+}
+
+h3{
+	font-size:30px;
+	font-family:Broadway;
+
+	left:40px;
+}

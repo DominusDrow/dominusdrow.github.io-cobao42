@@ -1,0 +1,125 @@
+ 
+body{
+
+    background-color:floralwhite;
+
+    background-image:url(../imagenes/tx12.jpg);
+  
+  }
+
+
+
+
+nav{
+
+    background-image:url(../imagenes/tx11.jpg);
+    text-decoration:none;
+    width:30%;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration:none;
+
+}
+
+
+nav ul li{
+    display: inline-block;
+    text-decoration:none;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration-color: none;
+    display: block;
+    padding: 10px 10px;
+
+    text-decoration:none;
+}
+
+nav ul li a:hover{
+    background-color: aquamarine;
+
+    text-decoration:none;
+}
+
+
+
+
+
+
+article{
+
+    background:rgba(220,248,230,0.2);
+    width:90%;
+    position:relative;
+}
+
+p{
+    font-family: arial;
+    text-align:left;
+    font font-size: 40px;
+  }
+
+
+
+.NEGRO{
+    color: blanchedalmond;
+    font font-family: fantasy;
+    font font-size: 15px;
+}
+
+
+
+#t1{
+
+    height:48px;
+    background-image:url(../imagenes/red.jpg);
+    color: whitesmoke;
+    font-size: 35px;
+    font-family: sans sans-serif;
+
+    text-align:center;
+}
+
+
+
+h1, h2, h3{
+    font-family: black;
+    font-size: 15px;
+    color: black;
+}
+
+
+#fondoDIV{
+    background-image: url(../imagenes/logo.png);
+    width: auto;
+    height: 200px;
+    background-position: top;
+
+    background-repeat:no-repeat;
+
+}
+
+#fondoDIV2{
+    background-image: url(../imagenes/fondo2.jpg);
+    width: 1300px;
+    height: 50px;
+    background-position: bottom;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+.item-r{
+    float: right;
+}
+
+.h1{
+    font-family: black;
+    font-size: 15px;
+    color: white;
+}
